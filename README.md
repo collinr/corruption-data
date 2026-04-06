@@ -130,17 +130,16 @@ Or open an issue to discuss improvements.
 This work is shared for educational and research purposes. Attribution appreciated.
 
 **Citation:**
-```
 Mamdoo, C. R. (2026). Multi-source mapping and descriptive analysis of 
 corruption data in South Africa: Methodological frameworks and source 
 inventory. PhD proposal, Stellenbosch University.
-```
 
 ---
 
 ## Contact
 
-**Collin Raymond Mamdoo**  
+**Collin Raymond Mamdoo**
+collinrm@gmail.com
 PhD Candidate, School for Public Leadership  
 Stellenbosch University  
 South Africa
