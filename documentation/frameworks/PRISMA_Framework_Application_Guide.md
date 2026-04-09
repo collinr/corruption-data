@@ -1,5 +1,5 @@
 # PRISMA Framework Application Guide
-## Multi-Source Mapping and Selection of Corruption Data for PhD Research
+## Multi-Source Mapping and Selection of Corruption Data for my Research
 
 **Study:** A Multi-Source Mapping and Descriptive Analysis of Corruption Data in South Africa  
 **Candidate:** Collin Raymond Mamdoo  
@@ -24,15 +24,15 @@ Tricco, A. C., Lillie, E., Zarin, W., et al. (2018). PRISMA extension for scopin
 
 ---
 
-## 2. Why PRISMA Applies to Your Study
+## 2. Why PRISMA Applies to this Study
 
-### **Your Research is a Systematic Data Source Mapping**
+### **This Research is a Systematic Data Source Mapping**
 
-PRISMA was originally designed for systematic reviews of research studies (quantitative, qualitative, mixed-methods). However, your PhD study is conceptually similar:
+PRISMA was originally designed for systematic reviews of research studies (quantitative, qualitative, mixed-methods). However, your this study is conceptually similar:
 
 **Parallel structure:**
 
-| Systematic Review of Studies | Your Multi-Source Data Mapping |
+| Systematic Review of Studies | Multi-Source Data Mapping |
 |---|---|
 | Search for published studies | Identify publicly available corruption data sources |
 | Define inclusion/exclusion criteria | Define scope: government, NGO, civil society |
@@ -41,11 +41,11 @@ PRISMA was originally designed for systematic reviews of research studies (quant
 | Synthesize findings across studies | Triangulate findings across sources |
 | Report using PRISMA checklist | Document methodology transparently |
 
-**Key insight:** You are not aggregating research *findings*; you are cataloguing and evaluating *data sources* as artifacts. PRISMA's systematic methodology applies equally.
+**Key insight:** I am not aggregating research *findings*; I am cataloguing and evaluating *data sources* as artifacts. PRISMA's systematic methodology applies equally.
 
 ---
 
-## 3. PRISMA-Informed Workflow for Your Study
+## 3. PRISMA-Informed Workflow for this Study
 
 ### **Phase 1: IDENTIFICATION**
 
@@ -53,7 +53,7 @@ PRISMA was originally designed for systematic reviews of research studies (quant
 
 #### **Step 1.1: Define Protocol (a priori)**
 
-*Before* you start searching, document:
+*Before* searching, document:
 
 - **Research objective:** "To map, inventory, and descriptively analyse publicly available corruption and governance data sources in South Africa"
 - **Scope:** Government agencies + NGOs + civil society sources
@@ -61,11 +61,11 @@ PRISMA was originally designed for systematic reviews of research studies (quant
 - **Geographic scope:** South Africa (national, provincial, municipal levels)
 - **Temporal scope:** Sources with data covering 2010–2025 (or justification for different span)
 - **Search strategy:** Systematic scanning of government portals, NGO websites, civil society databases, academic repositories, media archives
-- **Registration:** Document this protocol in your methods section (Bowen's principle of transparency)
+- **Registration:** Protocol tob be documented in methods section (Bowen's principle of transparency)
 
 #### **Step 1.2: Search for Sources Systematically**
 
-**Don't rely on convenience sampling.** Conduct systematic searches across known repositories:
+**Won't rely on convenience sampling.** Conduct systematic searches across known repositories:
 
 **Government portals (public sector):**
 - National Treasury Vulekamali (https://vulekamali.gov.za/)
@@ -93,7 +93,7 @@ PRISMA was originally designed for systematic reviews of research studies (quant
 - Mo Ibrahim Foundation IIAG
 - UN Corruption data (UNODC)
 
-**Search keywords** (document these—important for reproducibility):
+**Search keywords** (NB to document these—important for reproducibility):
 - "corruption South Africa"
 - "fraud waste abuse"
 - "irregular expenditure"
@@ -103,14 +103,14 @@ PRISMA was originally designed for systematic reviews of research studies (quant
 - "audit findings governance"
 - Institution-specific: "AGSA," "SIU," "IPID," "Public Protector"
 
-**Document your search strategy:**
+**Note to document search strategy:**
 
-| Database/Portal | Search Query | Date Searched | Results Found | Sources Identified |
-|---|---|---|---|---|
-| Vulekamali | "irregular expenditure" | 2026-04-10 | 247 | 12 |
-| AGSA | "PFMA reports 2020–2025" | 2026-04-10 | 6 annual reports | 6 |
-| Corruption Watch | All case studies, 2012–2025 | 2026-04-11 | 500+ cases | 1 source (database) |
-| Parliamentary Hansard | "corruption investigations" | 2026-04-11 | 89 transcripts | 1 source (aggregate) |
+| Database/Portal       | Search Query                | Date Searched | Results Found    | Sources Identified   |
+|---                    |---                          |---            |---               |---                   |
+| Vulekamali            | "irregular expenditure"     | 2026-04-10    | 247              | 12                   |
+| AGSA                  | "PFMA reports 2020–2025"    | 2026-04-10    | 6 annual reports | 6                    |
+| Corruption Watch      | All case studies, 2012–2025 | 2026-04-11    | 500+ cases       | 1 source (database)  |
+| Parliamentary Hansard | "corruption investigations" | 2026-04-11    | 89 transcripts   | 1 source (aggregate) |
 
 ---
 
@@ -150,8 +150,8 @@ For each identified source, quickly determine relevance:
 | AGSA MFMA Reports 2025 | Audit | Yes (criteria 2,3,4,5,6) | Institutional audit, municipal scope, quantitative | **INCLUDE** |
 | Zondo Commission Report | Inquiry | Yes (criteria 2,3,4,5) | Government inquiry, narrative + evidence, SA scope | **INCLUDE** |
 | Anonymous blog "Corruption Stories" | Blog | No (criteria 1,2,5) | Anecdotal, unverified, no institutional backing | **EXCLUDE** |
-| Transparency Int'l CPI 2025 | Index | Yes (criteria 2,3,4,6) | Established NGO, governance metric, SA included | **INCLUDE** |
-| Personal Twitter thread on SARS | Social media | No (criteria 5,6) | Anecdotal, not institutional, single event | **EXCLUDE** |
+| Transparency Int'l CPI 2025         | Index | Yes (criteria 2,3,4,6) | Established NGO, governance metric, SA included | **INCLUDE** |
+| Personal Twitter thread on SARS     | Social media | No (criteria 5,6) | Anecdotal, not institutional, single event | **EXCLUDE** |
 
 **Output:** Maintain a screening log with decisions and reasons (for reproducibility & audit trail).
 
@@ -182,7 +182,7 @@ For each included source, score across seven dimensions:
 | CPI 2025 | 5 | 1 | 5 | 4 | 5 | 1 | 3 | **3.4** | Perception-based, not empirical; composite index obscures underlying data |
 | Social media (Twitter) | 2 | 1 | 1 | 5 | 5 | 2 | 1 | **2.4** | Real-time; severe bias (urban, English, bot noise); unverifiable allegations |
 
-**Scoring definitions (from your Data Evaluation Matrix):**
+**Scoring definitions (from Data Evaluation Matrix in proposal):**
 
 | Dimension | 5 | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|---|
@@ -326,9 +326,9 @@ Identify corruption types/sectors with *sparse* data:
 
 ---
 
-## 4. PRISMA Checklist for Your Study
+## 4. PRISMA Checklist for the Study
 
-**Use this checklist to ensure methodological rigor:**
+**checklist to ensure methodological rigor:**
 
 ### **TITLE & ABSTRACT**
 - [ ] Title includes: "systematic mapping," "corruption data sources," "South Africa"
@@ -412,9 +412,9 @@ INCLUSION
 
 ---
 
-## 6. Integration with Your Existing Framework
+## 6. Integration with Existing Framework
 
-### **PRISMA + Bowen Document Analysis + Your Data Evaluation Matrix**
+### **PRISMA + Bowen Document Analysis + Data Evaluation Matrix**
 
 These three frameworks are **complementary, not contradictory:**
 
@@ -422,12 +422,12 @@ These three frameworks are **complementary, not contradictory:**
 |---|---|---|
 | **PRISMA** | Systematic identification, screening, selection of sources | *How to systematically find and validate sources* |
 | **Bowen (Document Analysis)** | Rigorous analysis of document content; trustworthiness criteria | *How to appraise and extract data from sources* |
-| **Your Data Evaluation Matrix (Table 4)** | Seven-dimension quality scoring | *Specific operationalization of Bowen's criteria + PRISMA quality appraisal* |
+| **Data Evaluation Matrix (Table 4)** | Seven-dimension quality scoring | *Specific operationalization of Bowen's criteria + PRISMA quality appraisal* |
 
 **Integration workflow:**
 
 1. **PRISMA:** Identify & screen sources systematically (Phase 1–3)
-2. **Your Matrix:** Evaluate quality of screened sources (Phase 3 → Table 4 scoring)
+2. **Matrix:** Evaluate quality of screened sources (Phase 3 → Table 4 scoring)
 3. **Bowen:** Extract data from high-quality sources using document analysis principles (Phase 4)
 4. **Triangulation:** Synthesize across sources (Phase 5)
 
@@ -436,7 +436,7 @@ These three frameworks are **complementary, not contradictory:**
 ## 7. Practical Checklist: PRISMA Application Steps
 
 ### **Before Data Collection (a priori)**
-- [ ] Write and register your protocol (OSF recommended)
+- [ ] Write and register protocol (OSF recommended)
 - [ ] Define PRISMA-aligned methods section
 - [ ] Populate search strategy table with keywords, databases, date ranges
 - [ ] Finalize inclusion/exclusion criteria
@@ -492,9 +492,9 @@ These three frameworks are **complementary, not contradictory:**
 
 ---
 
-## 9. PRISMA Checklist Template for Your Proposal
+## 9. PRISMA Checklist Template for Proposal
 
-**Include this in your Methods section:**
+**To be Included in Methods section:**
 
 ### **PRISMA 2020 Checklist (Adapted for Data Source Mapping)**
 
@@ -514,7 +514,7 @@ These three frameworks are **complementary, not contradictory:**
 
 ---
 
-## 10. Example: How PRISMA Would Structure Your Methods Section
+## 10. Example: How PRISMA Would Structure Methods Section
 
 ```markdown
 ## Methods
@@ -588,7 +588,7 @@ Composite score ≥3.5 = primary analysis; 2.5–3.4 = secondary;
 
 ---
 
-## 11. How to Cite PRISMA in Your Proposal
+## 11. How to Cite PRISMA
 
 ### **In-text citations:**
 
@@ -623,7 +623,7 @@ https://doi.org/10.7326/M18-0850
 
 ## 12. Final Recommendation: Integration Strategy
 
-### **Your three-framework approach:**
+### ** three-framework approach:**
 
 ```
 PHASE 1: PRISMA IDENTIFICATION & SCREENING
@@ -643,7 +643,7 @@ PHASE 3: DATA EXTRACTION & TRIANGULATION
 ↓ Result: Comprehensive mapping of SA corruption data landscape
 ```
 
-**In your proposal, you would write:**
+**For insertion into proposal:**
 
 "This study employs a systematic mapping methodology 
 (PRISMA-ScR; Tricco et al., 2018) to identify corruption 
@@ -678,6 +678,6 @@ Whiting, P., Savović, J., Higgins, J. P. T., Caldwell, D. M., Reeves, B. C., Sh
 
 ---
 
-**Document prepared for:** PhD Proposal - Multi-Source Corruption Data Mapping Study  
+**Document prepared for:** PhD Proposal - Multi-Source Corruption Data Mapping Study  by Collin Raymond Mamdoo
 **Version:** 1.0  
 **Last updated:** April 2026
